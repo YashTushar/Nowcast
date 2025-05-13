@@ -43,8 +43,8 @@ const VideoTimeline = ({
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-md p-4 h-full relative z-0">
-      <h2 className="text-lg font-semibold text-gray-800 mb-3">
+    <div className="bg-gray-40 rounded-lg shadow-md p-4 h-full relative z-0">
+      <h2 className="text-lg font-semibold text-red-600 mb-3">
         Video Timeline
       </h2>
 

@@ -2,8 +2,8 @@ import React from "react";
 
 const Timeline = ({ times, selectedIndex, onSelectTime }) => {
   return (
-    <div className="bg-white rounded-lg shadow-md p-4 h-full relative z-0">
-      <h2 className="text-lg font-semibold text-gray-800 mb-3">Timeline</h2>
+    <div className="bg-gray-70 rounded-lg shadow-md p-4 h-full relative z-0">
+      <h2 className="text-lg font-semibold text-red-600 mb-3">Timeline</h2>
 
       <div className="flex flex-col h-full">
         {/* Timeline items */}
